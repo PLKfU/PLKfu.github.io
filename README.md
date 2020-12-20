@@ -1,2 +1,2 @@
 # PLKfu.github.io
-个人博客用
+/blog hexo搭建的个人博客
