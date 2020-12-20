@@ -3,11 +3,11 @@
   <title>破晓</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://afffu.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://afffu.xyz/"/>
   <updated>2020-12-19T13:43:16.974Z</updated>
-  <id>http://example.com/</id>
+  <id>http://afffu.xyz/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,29 +18,29 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2020/12/19/test-1/"/>
-    <id>http://example.com/2020/12/19/test-1/</id>
+    <link href="http://afffu.xyz/2020/12/19/test-1/"/>
+    <id>http://afffu.xyz/2020/12/19/test-1/</id>
     <published>2020-12-19T12:55:32.000Z</published>
     <updated>2020-12-19T13:43:16.974Z</updated>
     
     
     
     
-    <category term="数据可视化" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <category term="数据可视化" scheme="http://afffu.xyz/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     
     
-    <category term="SPSS" scheme="http://example.com/tags/SPSS/"/>
+    <category term="SPSS" scheme="http://afffu.xyz/tags/SPSS/"/>
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
+    <category term="python" scheme="http://afffu.xyz/tags/python/"/>
     
-    <category term="MySQL" scheme="http://example.com/tags/MySQL/"/>
+    <category term="MySQL" scheme="http://afffu.xyz/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/12/19/hello-world/"/>
-    <id>http://example.com/2020/12/19/hello-world/</id>
+    <link href="http://afffu.xyz/2020/12/19/hello-world/"/>
+    <id>http://afffu.xyz/2020/12/19/hello-world/</id>
     <published>2020-12-19T09:51:16.436Z</published>
     <updated>2020-12-19T09:51:16.436Z</updated>
     
