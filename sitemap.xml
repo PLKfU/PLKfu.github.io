@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://afffu.xyz/2021/02/20/MySQL%E5%A4%8D%E4%B9%A0/</loc>
+    
+    <lastmod>2021-02-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://afffu.xyz/2020/12/21/regex%E6%AD%A3%E5%88%99%E7%AE%80%E4%BB%8B%EF%BC%88%E4%B8%8A%EF%BC%89/</loc>
     
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
     <loc>http://afffu.xyz/2020/12/22/MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%EF%BC%881%EF%BC%89/</loc>
     
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-02-20</lastmod>
     
   </url>
   
@@ -67,7 +74,7 @@
 
   <url>
     <loc>http://afffu.xyz/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +82,28 @@
   
   <url>
     <loc>http://afffu.xyz/tags/MongoDB/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://afffu.xyz/tags/regex/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <loc>http://afffu.xyz/tags/MySQL/</loc>
+    <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://afffu.xyz/tags/%E5%85%89/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-03-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://afffu.xyz/tags/regex/</loc>
+    <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -97,22 +111,15 @@
 
   
   <url>
-    <loc>http://afffu.xyz/categories/%E5%AD%A6/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <loc>http://afffu.xyz/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://afffu.xyz/categories/%E6%9D%82/</loc>
-    <lastmod>2021-01-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://afffu.xyz/categories/%E5%AD%A6/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2021-01-01</lastmod>
+    <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
